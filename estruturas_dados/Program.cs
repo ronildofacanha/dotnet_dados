@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace base
+namespace estruturas_dados
 {
     class Program
     {

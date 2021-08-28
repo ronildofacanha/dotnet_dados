@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev-dotnet\\base\\base.csproj",
-      "projectName": "base",
-      "projectPath": "C:\\dev-dotnet\\base\\base.csproj",
+      "projectUniqueName": "C:\\dev-dotnet\\estruturas_dados\\estruturas_dados.csproj",
+      "projectName": "estruturas_dados",
+      "projectPath": "C:\\dev-dotnet\\estruturas_dados\\estruturas_dados.csproj",
       "packagesPath": "C:\\Users\\ronil\\.nuget\\packages\\",
-      "outputPath": "C:\\dev-dotnet\\base\\obj\\",
+      "outputPath": "C:\\dev-dotnet\\estruturas_dados\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ronil\\AppData\\Roaming\\NuGet\\NuGet.Config",

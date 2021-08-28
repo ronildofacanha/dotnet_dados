@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev-dotnet\\base\\base.csproj": {}
+    "C:\\dev-dotnet\\estrutura_pilha\\estrutura_pilha.csproj": {}
   },
   "projects": {
-    "C:\\dev-dotnet\\base\\base.csproj": {
+    "C:\\dev-dotnet\\estrutura_pilha\\estrutura_pilha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev-dotnet\\base\\base.csproj",
-        "projectName": "base",
-        "projectPath": "C:\\dev-dotnet\\base\\base.csproj",
+        "projectUniqueName": "C:\\dev-dotnet\\estrutura_pilha\\estrutura_pilha.csproj",
+        "projectName": "estrutura_pilha",
+        "projectPath": "C:\\dev-dotnet\\estrutura_pilha\\estrutura_pilha.csproj",
         "packagesPath": "C:\\Users\\ronil\\.nuget\\packages\\",
-        "outputPath": "C:\\dev-dotnet\\base\\obj\\",
+        "outputPath": "C:\\dev-dotnet\\estrutura_pilha\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ronil\\AppData\\Roaming\\NuGet\\NuGet.Config",
