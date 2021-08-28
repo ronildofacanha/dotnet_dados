@@ -1,0 +1,16 @@
+C:\dev-dotnet\estrutura_pilha\bin\Debug\net5.0\estrutura_pilha.exe
+C:\dev-dotnet\estrutura_pilha\bin\Debug\net5.0\estrutura_pilha.deps.json
+C:\dev-dotnet\estrutura_pilha\bin\Debug\net5.0\estrutura_pilha.runtimeconfig.json
+C:\dev-dotnet\estrutura_pilha\bin\Debug\net5.0\estrutura_pilha.runtimeconfig.dev.json
+C:\dev-dotnet\estrutura_pilha\bin\Debug\net5.0\estrutura_pilha.dll
+C:\dev-dotnet\estrutura_pilha\bin\Debug\net5.0\ref\estrutura_pilha.dll
+C:\dev-dotnet\estrutura_pilha\bin\Debug\net5.0\estrutura_pilha.pdb
+C:\dev-dotnet\estrutura_pilha\obj\Debug\net5.0\estrutura_pilha.csproj.AssemblyReference.cache
+C:\dev-dotnet\estrutura_pilha\obj\Debug\net5.0\estrutura_pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev-dotnet\estrutura_pilha\obj\Debug\net5.0\estrutura_pilha.AssemblyInfoInputs.cache
+C:\dev-dotnet\estrutura_pilha\obj\Debug\net5.0\estrutura_pilha.AssemblyInfo.cs
+C:\dev-dotnet\estrutura_pilha\obj\Debug\net5.0\estrutura_pilha.csproj.CoreCompileInputs.cache
+C:\dev-dotnet\estrutura_pilha\obj\Debug\net5.0\estrutura_pilha.dll
+C:\dev-dotnet\estrutura_pilha\obj\Debug\net5.0\ref\estrutura_pilha.dll
+C:\dev-dotnet\estrutura_pilha\obj\Debug\net5.0\estrutura_pilha.pdb
+C:\dev-dotnet\estrutura_pilha\obj\Debug\net5.0\estrutura_pilha.genruntimeconfig.cache

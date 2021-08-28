@@ -6,7 +6,15 @@ namespace estrutura_pilha
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var p = new Pilha();
+            Console.WriteLine("Estrutura pilha em .NET usando C#");
+            p.Empilhar("primeiro");
+            p.Empilhar("segundo");
+            p.Empilhar("Terceiro");
+            // ##
+            Console.WriteLine("Pos " + p.Desempilhar());
+            Console.WriteLine("Pos " + p.Desempilhar());
+            Console.WriteLine("Pos " +p.Desempilhar());
         }
     }
 }
